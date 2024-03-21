@@ -5,8 +5,8 @@ A passionate computer science student
 -------------------------------------
 
 *   🌍  I'm based in Salerno, Italy
-*   🔭  I'm currently working on [FocusProject](http://github.com/smartire1/FocusProject)
-*   🧠  I'm learning software engineering, distributed programming and mobile programming
+*   🔭  Check out my latest work ;) [FocusProject](http://github.com/smartire1/FocusProject)
+*   🧠  I am currently studying Elements of Theory of Computation
 *   📫  You can contact me at [kevin.paladino02@gmail.com](mailto:kevin.paladino02@gmail.com)
 
 *   <a href="https://www.github.com/kevin011602" target="_blank" rel="noreferrer"><img
