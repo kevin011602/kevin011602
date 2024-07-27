@@ -6,7 +6,7 @@ A passionate computer science student
 
 *   🌍  I'm based in Salerno, Italy
 *   🔭  Check out my latest work ;) [FocusProject](http://github.com/smartire1/FocusProject)
-*   🧠  I am currently studying Elements of Theory of Computation
+*   🧠  I am currently studying Probability and Mathematical Statistics
 *   📫  You can contact me at [kevin.paladino02@gmail.com](mailto:kevin.paladino02@gmail.com)
 
 *   <a href="https://www.github.com/kevin011602" target="_blank" rel="noreferrer"><img
