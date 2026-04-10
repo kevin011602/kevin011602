@@ -1,31 +1,93 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin!
-==============================================================================================================================
+<!-- =========================
+HEADER / NAME BANNER
+========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:16a34a,100:22c55e&height=180&section=header&text=Kevin%20Paladino&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-A passionate computer science student
--------------------------------------
+<!-- =========================
+SHORT PROFILE DESCRIPTION
+========================= -->
+<p align="center">
+Laureato in Informatica - Università degli Studi di Salerno<br>
+Blue Team Cybersecurity • Defensive Security • Bioinformatics
+</p>
 
-*   🌍  I'm based in Salerno, Italy
-*   🔭  Check out my latest work ;) [FocusProject](http://github.com/smartire1/FocusProject)
-*   📫  You can contact me at [kevin.paladino02@gmail.com](mailto:kevin.paladino02@gmail.com)
+<!-- =========================
+LINKEDIN BUTTON
+========================= -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevin-paladino-a6494827a/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Paladino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-*   <a href="https://www.github.com/kevin011602" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/kevin011602?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<!-- =========================
+LONG DESCRIPTION
+========================= -->
+<p align="center">
+In formazione continua nel campo della cybersecurity, con focus sul mondo Blue Team e sulla difesa dei sistemi informatici.<br>
+Analizzo reti, sistemi e vulnerabilità con l’obiettivo di comprendere il comportamento degli attacchi e migliorare le strategie di difesa.<br>
+Il mio percorso è in costante evoluzione: studio, pratica e approccio analitico rappresentano la base della mia crescita verso un ruolo in ambito SOC / Cyber Defense.
+</p>
 
-### Skills 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                    </p>
+<!-- =========================
+GREEN DIVIDER (SECTION BREAK)
+========================= -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3d2e,50:16a34a,100:22c55e&height=6" width="60%"/>
+</p>
 
+<!-- =========================
+SKILLS / TECHNOLOGIES
+========================= -->
+<p align="center">
 
-### Socials
-<p align="left"> <a href="https://www.github.com/kevin011602" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kevin-paladino-a6494827a/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<!-- CORE -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 
-### Badges
+<!-- SECURITY TOOLS -->
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/Burpsuite_logo.png" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo_metasploit.png" width="45"/>
+<img src="https://raw.githubusercontent.com/bettercap/media/master/logo.png" width="45"/>
 
-<b>My GitHub Stats</b>
+<!-- DEVELOPMENT STACK -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Github_logo_svg.svg/1280px-Github_logo_svg.svg.png" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="45"/>
 
-<a href="http://www.github.com/kevin011602"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin011602&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</p>
 
-### Support Me
+<!-- =========================
+SUBTLE GREEN ACCENT LINE
+========================= -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,100:0b3d2e&height=3" width="40%"/>
+</p>
 
-<a href="https://www.ko-fi.com/solifer"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+<br>
+
+<!-- =========================
+GITHUB STREAK STATS
+========================= -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevin011602&stroke=ffffff&background=0b0f0c&ring=16a34a&fire=16a34a&currStreakNum=ffffff&currStreakLabel=16a34a&sideNums=ffffff&sideLabels=ffffff&dates=aaaaaa&hide_border=true" />
+</p>
+
+<!-- =========================
+FOOTER
+========================= -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d2e,50:16a34a,100:22c55e&height=80&section=footer" />
+</p>
